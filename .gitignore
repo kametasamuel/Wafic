@@ -1,0 +1,29 @@
+# Data (not committed -- see README for access)
+data/
+
+# Paper draft
+WAFIC_paper.docx
+
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.egg-info/
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Private: contains patient expressions
+scripts/lay_dict_private.py
